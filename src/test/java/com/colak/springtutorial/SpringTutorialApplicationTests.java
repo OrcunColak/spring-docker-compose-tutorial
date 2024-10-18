@@ -1,10 +1,10 @@
-package com.colak.springdockercomposetutorial;
+package com.colak.springtutorial;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class SpringDockerComposeTutorialApplicationTests {
+class SpringTutorialApplicationTests {
 
 	@Test
 	void contextLoads() {
